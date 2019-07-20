@@ -1,0 +1,2 @@
+reader_web.img.tar.part* !text !filter !merge !diff
+reader_web.img.tar.part* filter=lfs diff=lfs merge=lfs -text
